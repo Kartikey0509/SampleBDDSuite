@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+    <testcase classname="Verify and Validate Goibibo page" name="Validate Search button on Goibibo page" time="0">
+        <skipped><![CDATA[Given User launches the browser.............................................undefined
+And User enters the url.....................................................undefined
+When User navigate to the test page.........................................undefined
+And searches for "origin"...................................................undefined
+And Enters Desination as "destination"......................................undefined
+Then Clicked on Search button...............................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
